@@ -101,13 +101,6 @@ If your map doesn’t load correctly:
 
 ---
 
-## 👥 Contributors
-
-* **Ishaan [@IsheteDGr8](https://github.com/IsheteDGr8)** – Frontend Development, Map Integration
-* DubHacks 2025 Project – *"If you need us, we are on the way."*
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
