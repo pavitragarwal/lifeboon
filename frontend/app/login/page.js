@@ -159,7 +159,7 @@ function LoginContent() {
 
             <div className="mt-8 text-center">
               <p className="text-gray-600 font-medium">
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <Link 
                   href="/register" 
                   className="text-orange-500 hover:text-orange-600 font-black underline decoration-2 underline-offset-2"
