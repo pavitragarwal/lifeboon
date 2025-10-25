@@ -166,7 +166,7 @@ export default function RegisterPage() {
                 <div className="text-center mb-6">
                   <User className="w-12 h-12 mx-auto text-orange-500 mb-2" />
                   <h2 className="text-3xl font-black">Create Account</h2>
-                  <p className="text-gray-600 mt-1">Let's get you started</p>
+                  <p className="text-gray-600 mt-1">Let&apos;s get you started</p>
                 </div>
 
                 <div>

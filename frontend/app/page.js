@@ -288,12 +288,12 @@ function HomeContent() {
     // Create custom icons for hospitals
     const createHospitalIcon = (specialty) => {
       const iconColors = {
-        cardiology: '#ef4444',
-        eye: '#3b82f6',
-        dental: '#10b981',
+        cardiology: '#d71515ff',
+        eye: '#000000ff',
+        dental: '#8acbe3ff',
         orthopedics: '#f59e0b',
-        pediatrics: '#ec4899',
-        trauma: '#dc2626',
+        pediatrics: '#e883b6ff',
+        trauma: '#18c50fff',
         general: '#6366f1',
         default: '#8b5cf6'
       };
