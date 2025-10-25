@@ -117,7 +117,7 @@ textarea:focus {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(to bottom, #ea580c, #db2777);
+  background: linear-gradient(to bottom, #329ae5, #ffffff);
 }
 
 /* Selection color */
